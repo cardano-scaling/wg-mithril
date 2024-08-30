@@ -40,8 +40,8 @@ Welcome to the documentation repository of the Mithril working group. It holds d
 - Next meeting: To be determined
 
 #### Collaboration channels
-- [`#mithril-twg` on Intersect Discord](https://discord.gg/u6XPm63KdV)
-- [`#ask-mithril` on IOG Discord](https://discord.gg/AG3dG8PbjY)
+- [`#mithril-twg` on Intersect Discord](https://discord.gg/AG3dG8PbjY)
+- [`#ask-mithril` on IOG Discord](https://discord.gg/5kaErDKDRq)
 
 #### How membership is governed
 - Signal interest by [opening an issue](https://github.com/cardano-scaling/wg-mithril/issues/new?template=sign_me_up.yml) and/or join a work group meeting
